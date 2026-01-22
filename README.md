@@ -20,7 +20,7 @@
 ## 🏆 最优推荐（重点推荐 - 团队响应快，社区氛围好，价格亲民，性价比无敌）
 
 ### 红杏云 - Trojan协议+全球60+节点 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 红杏云官网](https://go.clashshome.com/hongxingyun)
+**官网入口**：[👉 红杏云官网](https://go.clashshome.com/hongxingyun)  
 **优惠码**：`hx2026`（新用户首单8折）
 
 **核心优势**：
@@ -38,7 +38,7 @@
 ---
 
 ### 奈云 - 全球节点+家宽IP ⭐⭐⭐⭐⭐
-**官网入口**：[👉 奈云官网](https://go.clashshome.com/naiyun)
+**官网入口**：[👉 奈云官网](https://go.clashshome.com/naiyun)  
 **优惠码**：`0101`（75折，1月31号截止）
 
 **核心优势**：
