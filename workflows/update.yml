@@ -15,11 +15,11 @@ jobs:
         
       - name: Update timestamp
         run: |
-          # 获取当前UTC时间
+          # 获取当前UTC时间（格式：2026-02-07 08:00）
           CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M")
           
-          # 更新README中的时间戳
-          sed -i "s/📅 最后更新：.*UTC | 每日更新价格和优惠码/📅 最后更新：${CURRENT_TIME} UTC | 每日更新价格和优惠码/" README.md
+          # 更新README中的时间戳（匹配你的格式）
+          sed -i "s/> \\*\\*最后更新\\*\\*：.*$/> **最后更新**：${CURRENT_TIME} UTC | 每日更新价格和优惠码/" README.md
           
       - name: Commit and push
         run: |
