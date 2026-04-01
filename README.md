@@ -151,7 +151,7 @@
 
 ### 1. 悦通 - 备用首选！多档位套餐+不限时流量包 ⭐
 **官网入口**：[👉 悦通官网](https://go.clashshome.com/yuetong)
-> --注意点：群内签到可送额外流量，长期用户福利！
+> --注意点：群内签到可送额外流量，长期用户福利！推荐使用客户端！TG群非常活跃。
 <p align="center">
   <img src="images/yuetong.png" width="80%" alt="悦通">
 </p>
