@@ -242,7 +242,7 @@
 
 ---
 
-### 5. 飞鸟云 - 一元机场/月传家宝+Hysteria2 ⭐⭐⭐⭐⭐
+### 5. 飞鸟云 - 一元机场/月传家宝+Hysteria2 
 **官网入口**：[👉 飞鸟云官网](https://go.clashshome.com/feiniaoyun)
 <p align="center">
   <img src="images/feiniaoyun.png" width="80%" alt="飞鸟云">
