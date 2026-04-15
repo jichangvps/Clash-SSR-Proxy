@@ -4,7 +4,7 @@
 > 2. 剔除劣质：已剔除所有 TG 群不回消息、口碑不稳的“跑路型”机场。仅保留响应快、出口带宽充足的优质服务商。  
 > 3. 2+1 策略：独家分享 2 个主力 + 1 个备用的不限时流量包组合方案。过去一年实现 0 断网记录，帮助你根据预算精准选择最合适的便宜稳定机场。  
 > 4. 优惠码：及时更新，部分有独家全场 8 折优惠码。  
-> 5. **最后更新**：2026-04-15 | 每周检查节点状态，随时更新最新动态。欢迎 Star 收藏防失联。[点击加入TG频道](https://t.me/best_jichang)
+> 5. **最后更新**：2026-04-16 | 每周检查节点状态，随时更新最新动态。欢迎 Star 收藏防失联。[点击加入TG频道](https://t.me/best_jichang)
 
 ---
 
@@ -380,8 +380,7 @@
 ### 1. overwall - IEPL 专线 + 游戏加速 + EMBY
 
 **官网入口**：
-- [overwall 官网](https://go.clashshome.com/overwall)
-- [overwall 备用地址](https://go.clashshome.com/overwall1)
+- [overwall 官网](https://go.clashshome.com/overwall)，[备用地址](https://dash.watchdoor.dog/register?code=R5cZjB71)
 
 **优惠码**：`overwall.run`（9折）
 
@@ -445,7 +444,7 @@
 ### 2. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
 
 **官网入口**：
-- [乌龟加速官网](https://go.clashshome.com/wuguijiasu)
+- [乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)
 
 **优惠码**：`ABING888`（独家全场 8 折）
 
@@ -501,7 +500,7 @@
 ### 3. 飞鸟云 - 年付 12 元传家宝
 
 **官网入口**：
-- [飞鸟云官网](https://go.clashshome.com/feiniaoyun)
+- [飞鸟云官网](https://go.clashshome.com/feiniaoyun)，[备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP)
 
 **机场档案**
 | 项目 | 详情 |
@@ -553,7 +552,7 @@
 ### 4. M78星云 - 三网 BGP + 最高 2000Mbps
 
 **官网入口**：
-- [M78星云官网](https://go.clashshome.com/m78xingyun)
+- [M78星云官网](https://go.clashshome.com/m78xingyun)，[备用地址](https://www.m78.at/#/register?code=jv0lwSHb)
 
 **优惠码**：`year80`（年付 8 折）
 
@@ -610,7 +609,7 @@
 ### 5. 奈云 - 全球节点
 
 **官网入口**：
-- [奈云官网](https://go.clashshome.com/naiyun)
+- [奈云官网](https://go.clashshome.com/naiyun)，[备用地址](http://6.vip.v2ny.me?path=register&code=1wIegJF2)
 
 **优惠码**：`0308`
 
@@ -662,7 +661,7 @@
 ### 6. 渔云Cloudfisher - 三网优化 + EMBY
 
 **官网入口**：
-- [渔云Cloudfisher官网](https://go.clashshome.com/yuyunjc)
+- [渔云Cloudfisher官网](https://go.clashshome.com/yuyunjc)，[备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp)
 
 **机场档案**
 | 项目 | 详情 |
@@ -710,7 +709,7 @@
 ### 7. 悦通 - 多档位套餐 + 不限时流量包 | 机场新星
 
 **官网入口**：
-- [悦通官网](https://go.clashshome.com/yuetong)
+- [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)
 
 > **注意**：群内签到可送额外流量，长期用户越用越划算！推荐使用官方客户端，TG 群非常活跃。
 
@@ -766,7 +765,7 @@
 ### 8. XSUS - 移动骨干 + IEPL 企业专线
 
 **官网入口**：
-- [XSUS 官网](https://go.clashshome.com/xsusgw)
+- [XSUS 官网](https://go.clashshome.com/xsusgw)，[备用地址](https://xs-us.xyz/register?code=G3gBe4Zs)
 
 **优惠码**：`OFF80`（年付 8 折）
 
@@ -835,7 +834,7 @@
 ### 9. 布丁猫 - 8 元起不限设备 + 专线 + 三网BGP + 稳定
 
 **官网入口**：
-- [布丁猫官网](https://go.clashshome.com/budingcat)
+- [布丁猫官网](https://go.clashshome.com/budingcat)，[备用地址](https://i8n.budingcat.xyz/#/register?code=KTdyYpN3)
 
 **机场档案**
 | 项目 | 详情 |
@@ -887,7 +886,7 @@
 ### 10. 魔戒 - 纯不限时流量包
 
 **官网入口**：
-- [魔戒官网](https://go.clashshome.com/mojieapp)
+- [魔戒官网](https://go.clashshome.com/mojieapp)，[备用地址](https://mojie.xn--yrs494l.com/register?aff=oPFxBtTW)
 
 **机场档案**
 | 项目 | 详情 |
@@ -1028,6 +1027,7 @@ A: 按以下顺序排查：
 
 <span id="update"></span>
 ## 📌更新纪录
+- 2026-04-16：新增官网备用地址
 - 2026-04-15：更新[红杏云](#kuaileigo)节点信息图片
 - 2026-04-14：新增主力机场：[快雷go](#kuaileigo)，更新[overwall](#overwall)价格
 - 2026-04-08：新增TG频道，更新部分机场信息，新增[overwall](#overwall)优惠码信息
