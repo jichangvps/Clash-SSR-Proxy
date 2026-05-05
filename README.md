@@ -10,7 +10,7 @@
 
 ## 📢 近期公告
 
-> 1、最近大部分机场都换了新协议vless-reality（由于现在落地基本都是海外所以延时普遍都高，但是延时高不代表速度卡），在订阅的工具实际测试和使用中，我的v2rayN明显优于Clash Verge，所以在遇到延迟高或者一些问题时，多换几个工具效果会不一样，当然也受不同地区和网络的影响因人而异。2、最近多运营商墙比较高，建议优先试试：[红杏云](#hongxingyun)、[悦通](#yuetong)、[快雷GO](#kuaileigo)。
+> 1、最近大部分机场都换了新协议vless-reality（由于现在落地基本都是海外所以延时普遍都高，但是延时高不代表速度卡），在订阅的工具实际测试和使用中，我的v2rayN明显优于Clash Verge，所以在遇到延迟高或者一些问题时，多换几个工具效果会不一样，当然也受不同地区和网络的影响因人而异。2、最近多地运营商墙比较高，建议优先试试：[红杏云](#hongxingyun)、[快雷GO](#kuaileigo)、[悦通](#yuetong)。
 
 ---
 
@@ -64,8 +64,8 @@
 ## 📋 目录导航
 
 - [一、主力机场（重点推荐）](#main)
-  - [1. 悦通](#yuetong)
-  - [2. 红杏云](#hongxingyun)
+  - [1. 红杏云](#hongxingyun)
+  - [2. 悦通](#yuetong)
   - [3. 宝可梦加速器](#baokemeng)
   - [4. 快雷go](#kuaileigo)
   - [5. 万达云](#wandayun)
@@ -93,8 +93,61 @@
 
 ---
 
+<span id="hongxingyun"></span>
+### 1. 红杏云 - 直连 + 家宽 + 原生 综合体验最强
+
+**官网入口**：
+- [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH)
+
+**优惠码**：`ABING888`（全场 8 折，一个账户可用两次）
+
+**机场档案**
+| 项目 | 详情 |
+|------|------|
+| 开业时间 | 2023 年 |
+| 老板肉身 | 境外 |
+| 入口与过境 | 香港 |
+| 节点地区 | 香港、台湾、日本、新加坡、美国、韩国、英国、德国等 |
+| 落地 ISP | Sakura Link Limited、Amazon.com（AWS） |
+| 节点数量 | 50+ |
+| 协议 | Vless + Hysteria2 |
+| 设备限制 | 不限制（合理使用） |
+| AI流媒体解锁 | AI全解锁 · Netflix / Disney+ / YouTube Premium |
+| 审计情况 | 无审计 |
+| 付款方式 | 支付宝 / 微信 / USDT |
+| TG 频道 | [点击加入](https://t.me/Hongxingyun_bot) |
+| 一键客户端 | Windows / Mac / Android / iOS / 软路由 [官方旧的稳定版本客户端](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun) |
+
+**核心优势**：
+- ✅ 专线 + 多地家宽、原生IP，晚高峰稳定，客服工单回复速度快
+- ✅ 50+节点，94% 可用率，实测平均延迟仅 52ms
+- ✅ 完美解锁 Netflix/Disney+/ChatGPT，附赠 EMBY 影视库
+- ✅ 不限设备，全家共享无压力
+
+**缺点**：
+- 官方一键客户端的话看个人喜欢吧，最新的客户端里面多了专线，更新后也非常稳定，切换模式全部超时的话**建议关闭IPV6**。旧版本在[Releases](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun)里面，也挺好用。
+
+**我的使用体验**：从 2024 年底开始用，轻量套餐每天刷剧+办公完全够用。是一家价格实惠、生态完善的近乎全能的机场，适合大部分场景使用。
+
+**推荐套餐**：
+
+| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
+|---------|------|------|------|------|
+| 轻量-包月 200G | ¥20/月 | 200GB | 300Mbps | 入门首选，支持季付/年付优惠 |
+| 冲浪-包月 500G | ¥40/月 | 500GB | 500Mbps | 性价比最高，我主力使用 |
+| 豪华-包月 800G | ¥60/月 | 800GB | 800Mbps | 重度用户 |
+| 大师-包月 1200G | ¥80/月 | 1200GB | 1000Mbps | 高强度使用 |
+| 高级-不限时 3000G | ¥388/一次性 | 1000Mbps | 永久有效 |  |
+| 豪华-不限时 6000G | ¥688/一次性 | 1000Mbps | 最多 20 台设备 |  |
+
+<p align="center">
+  <img src="images/hongxingyun2.png" width="100%" alt="红杏云">
+</p>
+
+---
+
 <span id="yuetong"></span>
-### 1. 悦通 - 多档位套餐 + 不限时流量包
+### 2. 悦通 - 多档位套餐 + 不限时大流量包 + 性价比最强
 **官网入口**：
 - [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)
 
@@ -144,59 +197,6 @@
 
 <p align="center">
   <img src="images/yuetong.png" width="100%" alt="悦通">
-</p>
-
----
-
-<span id="hongxingyun"></span>
-### 2. 红杏云 - 50多个节点（直连 + 家宽 + 原生 综合体验最好，生态最全）
-
-**官网入口**：
-- [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH)
-
-**优惠码**：`ABING888`（全场 8 折，一个账户可用两次）
-
-**机场档案**
-| 项目 | 详情 |
-|------|------|
-| 开业时间 | 2023 年 |
-| 老板肉身 | 境外 |
-| 入口与过境 | 香港 |
-| 节点地区 | 香港、台湾、日本、新加坡、美国、韩国、英国、德国等 |
-| 落地 ISP | Sakura Link Limited、Amazon.com（AWS） |
-| 节点数量 | 50+ |
-| 协议 | Vless + Hysteria2 |
-| 设备限制 | 不限制（合理使用） |
-| AI流媒体解锁 | AI全解锁 · Netflix / Disney+ / YouTube Premium |
-| 审计情况 | 无审计 |
-| 付款方式 | 支付宝 / 微信 / USDT |
-| TG 频道 | [点击加入](https://t.me/Hongxingyun_bot) |
-| 一键客户端 | Windows / Mac / Android / iOS / 软路由 [官方旧的稳定版本客户端](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun) |
-
-**核心优势**：
-- ✅ 专线 + 多地家宽、原生IP，晚高峰稳定，客服工单回复速度快
-- ✅ 50+节点，94% 可用率，实测平均延迟仅 52ms
-- ✅ 完美解锁 Netflix/Disney+/ChatGPT，附赠 EMBY 影视库
-- ✅ 不限设备，全家共享无压力
-
-**缺点**：
-- 官方一键客户端的话看个人喜欢吧，最新的客户端里面多了专线，更新后也非常稳定，切换模式全部超时的话**建议关闭IPV6**。旧版本在[Releases](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun)里面，也挺好用。
-
-**我的使用体验**：从 2024 年底开始用，轻量套餐每天刷剧+办公完全够用。是一家价格实惠、生态完善的近乎全能的机场，适合大部分场景使用。
-
-**推荐套餐**：
-
-| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
-|---------|------|------|------|------|
-| 轻量-包月 200G | ¥20/月 | 200GB | 300Mbps | 入门首选，支持季付/年付优惠 |
-| 冲浪-包月 500G | ¥40/月 | 500GB | 500Mbps | 性价比最高，我主力使用 |
-| 豪华-包月 800G | ¥60/月 | 800GB | 800Mbps | 重度用户 |
-| 大师-包月 1200G | ¥80/月 | 1200GB | 1000Mbps | 高强度使用 |
-| 高级-不限时 3000G | ¥388/一次性 | 1000Mbps | 永久有效 |  |
-| 豪华-不限时 6000G | ¥688/一次性 | 1000Mbps | 最多 20 台设备 |  |
-
-<p align="center">
-  <img src="images/hongxingyun2.png" width="100%" alt="红杏云">
 </p>
 
 ---
