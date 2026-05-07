@@ -597,7 +597,7 @@
 ---
 
 <span id="m78"></span>
-### 5. M78星云 - 三网 BGP + 最高 2000Mbps
+### 5. M78星云 - 三网 BGP + 最高 2000Mbps（目前公开订阅只提供几个公共节点，其他都在官方客户端，封端了）
 
 **官网入口**：
 - [M78星云官网](https://go.clashshome.com/m78xingyun)，[备用地址](https://www.m78.at/#/register?code=jv0lwSHb)
