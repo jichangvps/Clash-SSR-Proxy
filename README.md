@@ -662,6 +662,8 @@
 **机场档案**
 | 项目 | 详情 |
 |------|------|
+| 开业时间 | 2024 年 |
+| 老板肉身 | 境外 |
 | 入口与过境 | 全部境外直连（无国内入口） |
 | 节点地区 | 日本、香港、新加坡、美国 |
 | 落地 ISP | Amazon.com, Inc.、Sakura Link Limited、Amazon Technologies Inc |
@@ -671,7 +673,7 @@
 | 线路类型 | IEPL 专线（AWS 直连为主） |
 | 平均延迟 | 119 ms |
 | 设备限制 | 不限制，支持家庭成员共享 |
-| AI流媒体解锁 | 解锁流媒体 |
+| AI流媒体解锁 | 解锁AI流媒体 |
 | 审计情况 | 无审计 |
 | 付款方式 | 支付宝 / 微信 |
 | 一键客户端 | Windows / Mac / Android / iOS |
@@ -700,7 +702,7 @@
 > 所有套餐均支持月付 · 季付 · 半年 · 年付 · 2年付 · 3年付，长期付款更划算。
 
 <p align="center">
-  <img src="images/tangguo.png" width="100%" alt="糖果云">
+  <img src="images/tangguoyun.png" width="100%" alt="糖果云">
 </p>
 
 ---
